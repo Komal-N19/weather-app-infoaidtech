@@ -3,7 +3,7 @@ import requests
 import json
 
 # Constants
-API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY'
+API_KEY = 'f1be5f1c263eb4b1d6ed5dcb4643a395'
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 FORECAST_URL = 'http://api.openweathermap.org/data/2.5/forecast'
 FAVORITES_FILE = 'favorites.txt'
