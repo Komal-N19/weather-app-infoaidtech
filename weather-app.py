@@ -1,4 +1,5 @@
-import requests
+#before operating this code kindly make sure to add install the "requests" module using the "pip install requests" 
+import requests 
 import json
 
 # Constants
